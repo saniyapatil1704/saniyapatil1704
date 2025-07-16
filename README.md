@@ -1,11 +1,4 @@
-
-<!--
-**saniyapatil1704/saniyapatil1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi there, I'm Saniya Patil!<br>A passionate Full-Stack Developer dedicated to building robust and scalable web applications.<br><br>🚀 What I'm Currently Up To:<br>🌱 I'm currently learning React Native to expand my mobile development skills.<br><br>🔭 I'm actively working on the Skill Bridge Project – an exciting endeavor!<br><br>💡 My Passions:<br>My core passion lies in creating scalable web applications that are both efficient and user-friendly.<br><br>📫 Let's Connect!<br>You can reach me directly via email: patilsaniya172004@gmail.com<br><br>Add your LinkedIn profile link here! (Highly recommended)<br><br>Consider adding a personal website or portfolio link if you have one.<br><br>💬 Ask Me About:<br>React Hooks<br><br>MERN Stack (MongoDB, Express.js, React, Node.js)
 
 
@@ -23,10 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=saniyapatil1704&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
